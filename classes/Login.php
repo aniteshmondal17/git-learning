@@ -15,5 +15,8 @@ namespace classes;
 
 class Login
 {
+   public function __construct()
+   {
 
+   }
 }
