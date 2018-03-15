@@ -3,5 +3,4 @@
    echo "ABCD";
    echo "EFGH";
    echo "MNOP";
-   echo "IJKL";
 ?>
