@@ -4,6 +4,6 @@
    echo "EFGH";
    echo "MNOP";
    echo "IJKL";
-echo "QRST";
+   echo "QRST";
    echo "UVWX";
 ?>
