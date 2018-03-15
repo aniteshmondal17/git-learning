@@ -11,5 +11,8 @@ namespace classes;
 
 class User
 {
+    public function __construct()
+    {
 
+    }
 }
