@@ -7,5 +7,5 @@
    echo "QRST";
    echo "UVWX";
    echo "CCC";
- echo "GGG";
+   echo "GGG";
 ?>
