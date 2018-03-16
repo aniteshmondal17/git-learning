@@ -1,5 +1,33 @@
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
+http://idea.iteblog.com/key.php
 
-ABCDEF
+Git Commend
 
-text offf
+
+1> git init
+     git clone <repo url>
+2> git status
+3> git add location.txt ( git add -A)
+4> git status
+5> git commit -m “Comment txt”
+6> git push origin master
+7> git pull - - all
+
+8> git branch future-plans
+9> git checkout future-plans
+10> git status
+11> git add “file or folder name”
+12> git commit “file or folder name” -m “change branch”
+13> git status
+14> git checkout master
+15> git merge future-plans
+16> git branch -d future-plans (delete branch)
+17> git status
+18> git push origin master
+
+
+undo commit
+——————————
+19> git reset --soft HEAD~1  ( If you want to keep your work and just 'undo' that commit command)
+20> git reset --hard HEAD^   ( delete commit and also previous work)
+
+21> git  mergetool
